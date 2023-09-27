@@ -30,8 +30,8 @@ By providing a set of images that represent the emergency in question, our proje
 [More About]()
 
 ### First Review Documents
-- [Requirements]()
-- [Prioritization]()
-- [Artifacts]()
-- [Competences]()
-- [Activity Scores]()
+- [Requirements](/Artifacts/requirements.md)
+- [Prioritization](/Artifacts/prioritization.md)
+- [Competences](/Artifacts/competeneces.md)
+- [Activity Scores](/Artifacts/activityscores.md)
+- [Value Proposition](/Artifacts/valueproposition.md)
