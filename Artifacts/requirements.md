@@ -12,7 +12,7 @@ Before starting, the project will be briefly introduced, highlighting the main i
  
 | Non-functional requirements | Functional requirements |
 |--|--|
-|  |  |
+| Smart devices, this means that the application should be designed so that the user must install it on their device and can be updated through an application store. | The application should integrate some videos that work as tutorials to use the application. |
 |  |  |
 |  |  |
 |  |  |
