@@ -35,4 +35,3 @@ By providing a set of images that represent the emergency in question, our proje
 - [Artifacts]()
 - [Competences]()
 - [Activity Scores]()
->>>>>>> Update README.md
