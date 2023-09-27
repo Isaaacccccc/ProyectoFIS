@@ -27,7 +27,7 @@ Our project aims to address this challenge by implementing a rapid communication
 
 By providing a set of images that represent the emergency in question, our project seeks to empower this community to communicate independently and effectively in emergency situations. Our approach is to ensure that deaf people have access to the tools that hearing people already have.
 
-[More About]()
+[More About](/Artifacts/propuesta.Silueta.equipo1.pdf)
 
 ### First Review Documents
 - [Requirements](/Artifacts/requirements.md)
