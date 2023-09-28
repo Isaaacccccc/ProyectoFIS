@@ -35,3 +35,7 @@ By providing a set of images that represent the emergency in question, our proje
 - [Competences](/Artifacts/competeneces.md)
 - [Activity Scores](/Artifacts/activityscores.md)
 - [Value Proposition](/Artifacts/valueproposition.md)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/5nbbxRphKVoRow6PYD/giphy.gif">
+</p>
