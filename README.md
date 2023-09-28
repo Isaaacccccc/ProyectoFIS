@@ -6,14 +6,14 @@ First review of our project where we describe the reasons behind the idea and ho
 
 ## Team *(linkedin profiles)*
 ### Leader - Head:
-- :star: [Pech Herrera Moises Isaac](https://www.linkedin.com/in/moises-isaac-pech-herrera-994946206/) - [About]()
+- :star: [Pech Herrera Moises Isaac](https://www.linkedin.com/in/moises-isaac-pech-herrera-994946206/) - [About](/about/about_isaac.md)
 
 ### Development team:
-- :star2: [Novelo Góngora Aldrin Enrique](https://mx.linkedin.com/in/aldrin-novelo-gongora-1845b128a) - [About]()
-- :star2: [Ojeda Vales Leonardo](https://www.linkedin.com/in/leonardo-ojeda-vales-a5803628a/) - [About]()
-- :star2: [Puch Rodríguez Karina Gabriela](https://www.linkedin.com/in/karina-gabriela-puch-rodr%C3%ADguez-74922728a) - [About]()
-- :star2: [Tec Bonilla Jesús Antonio](https://www.linkedin.com/in/jes%C3%BAs-tec-20b25428a/) - [About]()
-- :star2: [Vega Nolasco Erick Ricardo](https://www.linkedin.com/in/erick-vega-6b622428a/) - [About]()
+- :star2: [Novelo Góngora Aldrin Enrique](https://mx.linkedin.com/in/aldrin-novelo-gongora-1845b128a) - [About](/about/about_aldrin.md)
+- :star2: [Ojeda Vales Leonardo](https://www.linkedin.com/in/leonardo-ojeda-vales-a5803628a/) - [About](/about/about_leo.md)
+- :star2: [Puch Rodríguez Karina Gabriela](https://www.linkedin.com/in/karina-gabriela-puch-rodr%C3%ADguez-74922728a) - [About](/about/about_karo.md)
+- :star2: [Tec Bonilla Jesús Antonio](https://www.linkedin.com/in/jes%C3%BAs-tec-20b25428a/) - [About](/about/about_jesus.md)
+- :star2: [Vega Nolasco Erick Ricardo](https://www.linkedin.com/in/erick-vega-6b622428a/) - [About](/about/about_erick.md)
 
 ## Project - App *Silueta*
 ### Description:
