@@ -5,11 +5,8 @@ I'm new at software development but I find all of this very interesting and I'm 
 
 Some of my qualities are that I'm responsible, organized, and creative and I always look for the bright side of everything. 
 
-<<<<<<< HEAD
 ## :star: Extra Facts
-=======
-## Extra Facts
->>>>>>> KarinaBranch
+
 - My favorite artists are Taylor Swift and Harry Styles. 
 - I really love listening to music, it makes me feel calm and it's relaxing for me to sing and follow the melody, I let myself be led by the music. 
 - I love cats, all of them have different personalities and I find that really cute. 
