@@ -30,12 +30,13 @@ By providing a set of images that represent the emergency in question, our proje
 [More About](/Artifacts/propuesta.Silueta.equipo1.pdf)
 
 ### First Review Documents
+- [Product Description](/description_product.md)
 - [Requirements](/Artifacts/requirements.md)
 - [Prioritization](/Artifacts/prioritization.md)
-- [Competences](/Artifacts/competeneces.md)
 - [Activity Scores](/Artifacts/activityscores.md)
 - [Value Proposition](/Artifacts/valueproposition.md)
-- [Product Description](/description_product.md)
+- [Specific Competences](/Artifacts/specific_competeneces.md)
+- [Generic Competences](/Artifacts/generic_competeneces.md)
 
 <p align="center">
   <img src="https://media.giphy.com/media/5nbbxRphKVoRow6PYD/giphy.gif">
