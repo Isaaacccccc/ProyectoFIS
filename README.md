@@ -35,8 +35,8 @@ By providing a set of images that represent the emergency in question, our proje
 - [Prioritization](/Artifacts/prioritization.md)
 - [Activity Scores](/Artifacts/activityscores.md)
 - [Value Proposition](/Artifacts/valueproposition.md)
-- [Specific Competences](/Artifacts/specific_competeneces.md)
-- [Generic Competences](/Artifacts/generic_competeneces.md)
+- [Specific Competences](/Artifacts/specific_competences.md)
+- [Generic Competences](/Artifacts/generic_competences.md)
 
 <p align="center">
   <img src="https://media.giphy.com/media/5nbbxRphKVoRow6PYD/giphy.gif">
