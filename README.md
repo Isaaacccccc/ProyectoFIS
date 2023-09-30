@@ -4,8 +4,8 @@
 First review of our project where we describe the reasons behind the idea and how it is presented to the public.
 ### [Video Presentation]()
 
-## Team *(linkedin profiles)*
-### Leader - Head:
+## Team *(linkedin profiles and about)*
+### Leader - Service Request Manager:
 - :star: [Pech Herrera Moises Isaac](https://www.linkedin.com/in/moises-isaac-pech-herrera-994946206/) - [About](/about/about_isaac.md)
 
 ### Development team:
@@ -28,6 +28,21 @@ Our project aims to address this challenge by implementing a rapid communication
 By providing a set of images that represent the emergency in question, our project seeks to empower this community to communicate independently and effectively in emergency situations. Our approach is to ensure that deaf people have access to the tools that hearing people already have.
 
 [More About](/Artifacts/propuesta.Silueta.equipo1.pdf)
+
+## Kanban Methodology
+<img src="https://youssefoufaska.com/wp-content/uploads/2023/08/Kanban-in-Action-03.gif"/>
+
+The Kanban method is an agile project management approach that focuses on visualizing and controlling the flow of work. In Kanban, Kanban [boards](https://github.com/users/Isaaacccccc/projects/3) are used to represent tasks or work items, which move through columns representing different states of the process. The main emphasis is on enabling continuous workflow and improving team efficiency.
+
+Unlike other agile methods such as Scrum, Kanban does not define fixed roles such as "Scrum Master" or "Product Owner". Instead, Kanban teams have the flexibility to define their own roles and responsibilities according to their specific needs. This means that roles are not as defined or structured as in other methods, which gives teams the freedom to adapt Kanban to their particular contexts and requirements. We just define the rol of the Leader or the Service Request Manager.
+
+### Process: 
+We use the Kanban method for these reasons:
+
+- **Clear visualization**: Kanban provides a clear, real-time visualization of my tasks and projects on a dashboard. This allows me to have an overview of what I have to do and what status my academic activities are in.
+- **Flexible prioritization**: I can assign priorities to my tasks and projects as needed and move the Kanban cards on the board according to those priorities. This allows me to adapt to changing academic demands and focus on what is most important at any given time.
+- **Stress reduction**: Visualizing and tracking tasks on a Kanban board can reduce stress and feelings of overwhelm, as I can clearly see what I have completed and what remains to be done.
+- **Collaboration**: If I am working on group projects, I can share the Kanban board with my teammates for better collaboration and task coordination.
 
 ### First Review Documents
 - [Product Description](/description_product.md)
