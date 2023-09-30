@@ -33,7 +33,7 @@ By providing a set of images that represent the emergency in question, our proje
 - [Product Description](/description_product.md)
 - [Requirements](/Artifacts/requirements.md)
 - [Prioritization](/Artifacts/prioritization.md)
-- [Activity Scores](/Artifacts/activityscores.md)
+- [Activity Scores](https://github.com/users/Isaaacccccc/projects/3)
 - [Value Proposition](/Artifacts/valueproposition.md)
 - [Specific Competences](/Artifacts/specific_competences.md)
 - [Generic Competences](/Artifacts/generic_competences.md)
