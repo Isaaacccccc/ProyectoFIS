@@ -30,7 +30,7 @@ By providing a set of images that represent the emergency in question, our proje
 [More About](/Artifacts/propuesta.Silueta.equipo1.pdf)
 
 ## Kanban Methodology
-<img src="https://youssefoufaska.com/wp-content/uploads/2023/08/Kanban-in-Action-03.gif"/>
+<img src="https://assets-global.website-files.com/59e16042ec229e00016d3a66/60133af6e7f3a2276a88e2c0_kanban-vs-gantt-listing.gif"/>
 
 The Kanban method is an agile project management approach that focuses on visualizing and controlling the flow of work. In Kanban, Kanban [boards](https://github.com/users/Isaaacccccc/projects/3) are used to represent tasks or work items, which move through columns representing different states of the process. The main emphasis is on enabling continuous workflow and improving team efficiency.
 
