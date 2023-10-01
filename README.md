@@ -46,6 +46,7 @@ We use the Kanban method for these reasons:
 
 ### First Review Documents
 - [Product Description](/description_product.md)
+- [Users](/Artifacts/Users.md)
 - [Requirements](/Artifacts/requirements.md)
 - [Prioritization](/Artifacts/prioritization.md)
 - [Activity Scores](https://github.com/users/Isaaacccccc/projects/3)
