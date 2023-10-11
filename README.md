@@ -44,7 +44,7 @@ We use the Kanban method for these reasons:
 - **Stress reduction**: Visualizing and tracking tasks on a Kanban board can reduce stress and feelings of overwhelm, as I can clearly see what I have completed and what remains to be done.
 - **Collaboration**: If I am working on group projects, I can share the Kanban board with my teammates for better collaboration and task coordination.
 
-# *SCRUMban* - Incorporation with SCRUM methodology
+## *SCRUMban* - Incorporation with SCRUM methodology
 <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Scrumban.jpg" />
 
 The combination of Kanban and Scrum can be especially useful in teams that want to maintain a continuous flow of work, while still using valuable elements of Scrum, such as planning and retrospective.
