@@ -1,4 +1,4 @@
-<img src="/Assets/banner.png" width="1100" height="240"/>
+<img src="/Assets/newbanner.png" width="1100" height="240"/>
 
 # First Review
 First review of our project where we describe the reasons behind the idea and how it is presented to the public.
