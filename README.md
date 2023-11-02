@@ -110,8 +110,8 @@ It happens after the emergency specification screen, when this message is transl
 
 ### **Second review documents**:
 
-- [User Guide](): A manual for the user to learn how to use the application
-- [App design](): The *documentation* of everything implemented within the UI design.
-- [User stories](): Our guide to make the UI design.
-- [User case diagram/Workflow](): Updated document, the operation of the app is shown now.
-- [Requirements](): Refinement of requirements.
+- [User Guide](/Appdocumentation/usersguide.md): A manual for the user to learn how to use the application
+- [App design](/Appdocumentation/appdesign.md): The *documentation* of everything implemented within the UI design.
+- [User stories](/Artifacts/userstories.png): Our guide to make the UI design.
+- [User case diagram/Workflow](/Artifacts/workflow.png): Updated document, the operation of the app is shown now.
+- [Requirements](/Artifacts/new_requirements.md): Refinement of requirements.
