@@ -1,8 +1,10 @@
 <img src="/Assets/newbanner.png" width="1100" height="240"/>
 
-# First Review
-First review of our project where we describe the reasons behind the idea and how it is presented to the public.
-### [Video Presentation](https://drive.google.com/drive/folders/1nZxczewTDJTw0zMCW506SgOML31NQd6E?usp=sharing)
+# Second Review
+Second review of our project where the product begins to have a more detailed description and a interface ✌️ 
+
+### [Video Presentation]()
+
 
 ## Team *(linkedin profiles and about)*
 ### Leader - Service Request Manager:
@@ -15,7 +17,7 @@ First review of our project where we describe the reasons behind the idea and ho
 - :star2: [Tec Bonilla Jesús Antonio](https://www.linkedin.com/in/jes%C3%BAs-tec-20b25428a/) - [About](/about/about_jesus.md)
 - :star2: [Vega Nolasco Erick Ricardo](https://www.linkedin.com/in/erick-vega-6b622428a/) - [About](/about/about_erick.md)
 
-## Project - App *Silueta*
+## Project - App *Silhouette*
 ### Description:
 *Improving Communication for Deaf People*
 
@@ -29,42 +31,87 @@ By providing a set of images that represent the emergency in question, our proje
 
 [More About](/Artifacts/propuesta.Silueta.equipo1.pdf)
 
-## Kanban Methodology
-<img src="https://assets-global.website-files.com/59e16042ec229e00016d3a66/60133af6e7f3a2276a88e2c0_kanban-vs-gantt-listing.gif"/>
-
-The Kanban method is an agile project management approach that focuses on visualizing and controlling the flow of work. In Kanban, Kanban [boards](https://github.com/users/Isaaacccccc/projects/3) are used to represent tasks or work items, which move through columns representing different states of the process. The main emphasis is on enabling continuous workflow and improving team efficiency.
-
-Unlike other agile methods such as Scrum, Kanban does not define fixed roles such as "Scrum Master" or "Product Owner". Instead, Kanban teams have the flexibility to define their own roles and responsibilities according to their specific needs. This means that roles are not as defined or structured as in other methods, which gives teams the freedom to adapt Kanban to their particular contexts and requirements. We just define the rol of the Leader or the Service Request Manager.
-
-### Process: 
-We use the Kanban method for these reasons:
-
-- **Clear visualization**: Kanban provides a clear, real-time visualization of my tasks and projects on a dashboard. This allows me to have an overview of what I have to do and what status my academic activities are in.
-- **Flexible prioritization**: I can assign priorities to my tasks and projects as needed and move the Kanban cards on the board according to those priorities. This allows me to adapt to changing academic demands and focus on what is most important at any given time.
-- **Stress reduction**: Visualizing and tracking tasks on a Kanban board can reduce stress and feelings of overwhelm, as I can clearly see what I have completed and what remains to be done.
-- **Collaboration**: If I am working on group projects, I can share the Kanban board with my teammates for better collaboration and task coordination.
-
-## *SCRUMban* - Incorporation with SCRUM methodology
-<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/What_is_Scrumban.jpg" />
-
-The combination of Kanban and Scrum can be especially useful in teams that want to maintain a continuous flow of work, while still using valuable elements of Scrum, such as planning and retrospective.
-We use the Kanban methodology for the way we work with the team, but to adapt it to a software engineering environment we decided to combine it with the **SCRUM** methodology. ***This in the following ways for the process***:
-
-- **Using Scrum as a *timeframe***: Instead of following a strict Scrum process, keeping the main ideas, such as meetings and retrospectives, but not setting fixed sprints. Instead, it works in a continuous flow of backlog items, basing all work on the dashboard created by the kanban method, allowing it to be somewhat observable.
-- **Using the Kanban board as a task board**: Instead of a typical Scrum board with columns representing specific states of a sprint.
-- **Setting work in progress (WIP) limits**: We implemented WIP limits on the Kanban board to control the amount of work being done at the same time.
-- **Being flexible**: One of the advantages of Scrumban is flexibility. We liked this way of being flexible with the activities and the way of working with the team.
-
-### First Review Documents
-- [Product Description](/description_product.md)
-- [Users](/Artifacts/Users.md)
-- [Requirements](/Artifacts/requirements.md)
-- [Prioritization](/Artifacts/prioritization.md)
-- [Activity Scores](https://github.com/users/Isaaacccccc/projects/3)
-- [Value Proposition](/Artifacts/valueproposition.md)
-- [Specific Competences](/Artifacts/specific_competences.md)
-- [Generic Competences](/Artifacts/generic_competences.md)
+## Product evolution
+While we were working on this second installment, we realized that we had to make some changes in order to be able to properly realize the idea we had at the beginning. Here are some of them:
 
 <p align="center">
-  <img src="https://media.giphy.com/media/5nbbxRphKVoRow6PYD/giphy.gif">
+  <img src="/Assets/logoevolution.png">
 </p>
+
+- **Design change**:  *Why black and white?* We decided to redifine the branch to make a minimalistic app with colors that represent the concept of the software.
+- **Refinement of requirements**: *Were they wrong?* Not really, but they were incomplete or we expected something that is beyond our abilities.
+- **User stories**: *New artifacts?* Basically they were there but not explicitly, at the beginning of this second installment we decided to make them in order to divide the interface into sprints that would guide us.
+- **Team activities**: *New roles?* Yes, we divided the team in two groups, one for the documentation and another one for the UI design.
+
+	-   `UI design`:
+		-   Leonardo Ojeda Vales
+		- Moisés Isaac Pech Herrera
+		- Jesús Antonio Tec Bonilla
+	-   `Documentation`:
+		-  Aldrin Enrique Novelo Góngora
+		- Karina Gabriela Puch Rodríguez
+		-  Erick Ricardo Vega Nolasco
+
+- **UI design**: *What tool did the team use?* Figma, We first made a low-fidelity model to give it a good structure and then followed with a medium-fidelity model.
+
+## Requirements
+During this second review, we realized the *complexity* and *unfeasibility* of certain requirements raised in the first stage, which could ultimately cause delays in the process. Therefore, we opted to eliminate or replace those requirements with others that were more viable and fundamental to achieve the purpose of the application. This way, we **retained 5 of the 6 non-functional requirements** previously established, **added 2 new functional requirements** and **modified 3 of the 6 previously established requirements**.
+
+|[Old requirements](/Artifacts/requirements.md)   |     [New requirements](/Artifacts/new_requirements.md)  |
+|--|--|
+
+## Sprints
+According to the SCRUMban methodology for our project, we divided the delivery into sprints:
+
+| [Sprint 1]()  | [Sprint 2]()  | [Sprint 3]()  |  [Sprint 4]() |
+|--|--|--|--|
+
+
+
+## UI Design (*two models*)
+When deciding on a software tool we opted for Figma, a UI/UX design app that is intuitive and easy to learn. For this we designed school accounts to be able to access the professional features for free.
+
+### **Prototypes**:
+
+<p align="center">
+  <img src="Assets/low-fidelity model.jpeg">
+</p>
+
+First we decided to make a *low-fidelity model* in figma, in which we focused on the basic things that the interface should have. Some points we considered:
+
+- **Minimalist design**: simplifies the user interface, which makes the application easier to understand and use. We want the deaf community to be able to understand from the beginning how to use the app.
+
+- **Performance**: With the minimalist design we seek that the app is not so "heavy", that any cell phone can use it without any problem. 
+
+<p align="center">
+  <img src="/Assets/medium-fidelity model.jpeg">
+</p>
+
+After making the first model, we made this *medium-fidelity model* because we wanted to show how it will look to the user in a IOS version. We considered:
+
+- **App format**: A solid grayish black background, changing only in some cases with red and white shades.
+- **Icons**: We implemented the icons that we will be using for each emergency situation, dividing it into 7 categories (Health Emergency, Car Accident, Fire, Domestic Violence, Crime, Missing Person, Natural Disaster) each one with more icons in order to have a deeper description of the situation.
+
+[Visit the Prototypes here :floppy_disk:](https://www.figma.com/file/x9rlfdT941MxluV8jcdjO2/SIlhuoette-App?type=design&node-id=83-399&mode=design&t=XbssHG5kFoim7iwO-0)
+
+### Correspondence with requirements
+1. ***User Registration/Log In***
+The first screen is the registration screen, where the user will be able to enter his or her data to have a record of everyone.
+2. ***Support Tutorials***
+Son videos que se implementan dentro de la app, las dos ultimas pantallas que salen en las imágenes, tendrá la capacidad de verse hortizontal y verticalmente.
+3. ***Access to the location***
+This is a permission that appears at the start of the app, where the user can select whether to grant or deny access. It includes a small message about what this data will be used for.
+4. ***Registration of personal data***
+This screen is where the user is asked for personal and medical data. Within this screen you can edit as many times as you wish and it will be useful for emergency personnel when such a situation occurs.
+5. ***Emergency recognition***
+The main screens of the app, where the big red button appears. Once selected, several general situations will be displayed and by selecting one of them you will be able to specify the situation in question.
+6. ***Protocol/application/API***
+It happens after the emergency specification screen, when this message is translated so that the user can be located by the corresponding emergency services.
+
+### **Second review documents**:
+
+- [User Guide](): A manual for the user to learn how to use the application
+- [App design](): The *documentation* of everything implemented within the UI design.
+- [User stories](): Our guide to make the UI design.
+- [User case diagram/Workflow](): Updated document, the operation of the app is shown now.
+- [Requirements](): Refinement of requirements.
