@@ -22,7 +22,7 @@ With this in mind, we decided on the following structure for the user design.
 ### Documentation of the UI design
 
 <p align="center">
-  <img src="Assets/low-fidelity model.jpeg">
+  <img src="/Assets/low-fidelity model.jpeg">
 </p>
 
 - **Introduction with a video**: Introduction through Audiovisual Material. In order to facilitate the successful creation of the account by the user, we have implemented an introductory video in sign language (although it will still be subtitled in Spanish). This will provide the user with a detailed guide of the steps to follow to complete the registration process. The video has been designed to be viewed in both landscape and portrait orientation and will play automatically the first time the user accesses the application. However, the user will have the option to access this again according to their preference, as we have incorporated a feature that allows for later playback. 
@@ -40,7 +40,7 @@ With this in mind, we decided on the following structure for the user design.
 - **Assistance icons**: In order to make it easier for the user to identify emergency situations, we have implemented the use of seven distinctive icons that will provide you with the ability to communicate with the relevant authorities in each case. These seven icons were selected in consideration of the most frequent classifications of situations that could arise. In turn, each of these classifications has different categories, which are detailed below: 
 
 <p align="center">
-  <img src="Assets/Icons.jpeg">
+  <img src="/Assets/Icons.jpeg">
 </p>
 
 - Health emergency:  
