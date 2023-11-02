@@ -3,7 +3,7 @@
 ### Step-by-step instructions on how the application works 
 
 <p align="center">
-  <img src="/Artifacts/medium-fiedelity model.jpeg">
+  <img src="/Assets/medium-fiedelity model.jpeg">
 </p>
 
 1. **The user enters** the application and in the loading process the app logo is displayed. 
