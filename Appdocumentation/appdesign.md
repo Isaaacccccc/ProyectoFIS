@@ -29,11 +29,12 @@ With this in mind, we decided on the following structure for the user design.
 
 - **Log In/Sign Up tab**:  The user will be presented with this tab to make his registration in case he is new (sign up), in which he will be directed to another tab where he will be asked for the essential data needed by the app; in case he has already registered, the user will be directed to the Log In tab, where he will have to put his access data.  
 
-- **Log In tab**: For this tab, the user must have already registered previously, and must enter his Social Security Number (SSN) and password; the application will have an option to remember the SSN that will be activated if the user wishes, and then the user will only have to enter his password.  
+- **Log In tab**: For this tab, the user must have already registered previously, and must enter his/her email address and password; the application will have an option to remember the email address, which will be activated if the user wishes, and then the user will only have to enter his/her password.
 
-- **Registration tab**: In order for the user to register, there will be this first tab in which the user will have to provide a photo in which his/her face, full name, date of birth, sex, blood type, height and weight are clearly visible.  
+- **Registration tab**: In order for the user to register, there will be this first tab in which the user will have to provide his/her e-mail address and a password twice to confirm it.
 
-- **Registration of user data**:  In this tab the user will be able to enter the data of his close people in order to be able to contact them if necessary, the data to be provided of such person are: a photo, full name, relationship and telephone number.  Similarly, the user will be presented with a tab in which to provide medical data that may be helpful if required, such as: diseases, allergies, chronic condition, operations, lifestyle and current medication, which should be filled with the appropriate information as appropriate.    
+- **Registration of user data**:  In this tab the user will be able to enter his personal data such as full name, date of birth, blood type, sex, height and weight, he will also be able to enter the data of people close to him so that he can contact them if necessary, the data to be provided are: a photo, full name, relationship and telephone number.  
+Similarly, the user will be presented with a tab in which to provide medical data that may be helpful if required, such as: diseases, allergies, chronic condition, operations, lifestyle and current medication, which must be filled in with the corresponding information as appropriate.  
 
 - **Method of contacting the authorities** (button to request support): The application will have an emergency button that the user will slide every time he/she is in a risky situation or observes what is happening around him/her, subsequently, he/she will be able to visualize a menu with the 7 assistance icons mentioned above, and after he/she has chosen the type of emergency, the application will contact the user with the relevant authorities and/or nearby person previously added in the registration data for such situation.  
 
@@ -110,3 +111,6 @@ With this in mind, we decided on the following structure for the user design.
 	- Whirlwind 
 
 	- Chemical spill in the natural environment
+
+- **Contact with emergency authorities**:  
+In order for the user to see that concrete measures are being taken to provide a quick and effective response to their emergency case and therefore they can feel safer, we have implemented a map where the user will be able to visualize the location of emergency units in real time. Since, in emergency situations, uncertainty can increase people's stress and anxiety, that is why by implementing this functionality we want users to have a better sense of control and greater peace of mind.
