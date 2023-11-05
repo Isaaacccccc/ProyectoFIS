@@ -112,6 +112,7 @@ It happens after the emergency specification screen, when this message is transl
 
 - [User Guide](/Appdocumentation/usersguide.md): A manual for the user to learn how to use the application
 - [App design](/Appdocumentation/appdesign.md): The *documentation* of everything implemented within the UI design.
+- [Process description](/Appdocumentation/documentation.md): The *documentation* of the process of the second review.
 - [User stories](/Artifacts/userstories.png): Our guide to make the UI design.
 - [Acceptance Criteria](/Artifacts/AcceptanceCriteria.png): The criteria of the user stories that the application can give to the users.
 - [User case diagram/Workflow](/Artifacts/workflow.png): Updated document, the operation of the app is shown now.
