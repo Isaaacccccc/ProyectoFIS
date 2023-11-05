@@ -1,7 +1,7 @@
 # Sprint 2
 
 <p align="center">
-  <img src="Sprints/sprint2.jpeg">
+  <img src="/Sprints/sprint2.jpeg">
 </p>
 
 | Activities performed |Problems/troubleshooting |Planning of future activities |
