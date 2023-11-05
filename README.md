@@ -63,7 +63,7 @@ During this second review, we realized the *complexity* and *unfeasibility* of c
 ## Sprints
 According to the SCRUMban methodology for our project, we divided the delivery into sprints:
 
-| [Sprint 1]()  | [Sprint 2]()  | [Sprint 3]()  |  [Sprint 4]() |
+| [Sprint 1](/Sprints/sprint1.md)  | [Sprint 2](/Sprints/sprint2.md)  | [Sprint 3](/Sprints/sprint3.md)  |  [Sprint 4](/Sprints/sprint4.md) |
 |--|--|--|--|
 
 
