@@ -3,7 +3,7 @@
 # Second Review
 Second review of our project where the product begins to have a more detailed description and a interface ✌️ 
 
-### [Video Presentation](https://drive.google.com/file/d/1pZuv8dnU88BzZGQvESC6jIbqLtCmwaOA/view?usp=sharing)
+### [Video Presentation](https://drive.google.com/drive/folders/16dP5fHT-3IAMqnB9YFhPmI4JJvT8-UHk?usp=sharing)
 
 
 ## Team *(linkedin profiles and about)*
