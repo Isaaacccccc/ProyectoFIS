@@ -66,7 +66,10 @@ According to the SCRUMban methodology for our project, we divided the delivery i
 | [Sprint 1](/Sprints/sprint1.md)  | [Sprint 2](/Sprints/sprint2.md)  | [Sprint 3](/Sprints/sprint3.md)  |  [Sprint 4](/Sprints/sprint4.md) |
 |--|--|--|--|
 
+Likewise, for the Kanban methodology part, the tasks on the board were expanded.
 
+|[Board :bar_chart:](https://github.com/users/Isaaacccccc/projects/3)|[Contribution metrics](/Activityscores/chart.md)|
+|--|--|
 
 ## UI Design (*two models*)
 When deciding on a software tool we opted for Figma, a UI/UX design app that is intuitive and easy to learn. For this we designed school accounts to be able to access the professional features for free.
