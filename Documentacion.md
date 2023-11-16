@@ -57,6 +57,14 @@ Historias de usuario:
 
 ***Investiga sobre un método o técnica que permita incluir pruebas de forma efectiva en el proceso de desarrollo. ¿A partir de qué etapa pueden ser consideradas las pruebas?. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando.***
 
+Un método o técnica que permite incluir pruebas de forma efectiva en el proceso de desarrollo es el desarrollo guiado por pruebas o test-driven development (TDD). Este método consiste en escribir primero las pruebas que definen el comportamiento y los requisitos del software, y luego escribir el código que las satisfaga. De esta forma, se asegura que el código cumple con las expectativas y se evita el código innecesario o defectuoso. Además, se facilita la refactorización y la integración continua del software.
+
+Las pruebas pueden ser consideradas desde la primera etapa del proceso de desarrollo, que es el análisis de requisitos. En esta etapa, se definen las especificaciones y características que tendrá el producto, y se pueden elaborar casos de prueba que verifiquen su cumplimiento. Así, se puede validar que los requisitos sean claros, completos y comprobables.
+
+Un ejemplo que se podría hacer en nuestro proyecto sería hacer las pruebas de forma hipotética, como preguntar externamente si los requisitos parecen ser suficientes, en el caso de nuestro proyecto, podría ser a gente que tenga conocimientos y esté rodeada sobre gente discapacitada para tener más perspectivas y reacciones a partir de las cuales podremos refinar y mejorar nuestros requisitos para la app.***
+
+Fuente utilizada para el desarrollo guiado por pruebas: Cómo diseñar un plan de pruebas efectivo para proyectos de software. (https://www.mtp.es/blog/testing-software/como-disenar-un-plan-de-pruebas-efectivo-para-proyectos-de-software/)
+i)
 
 ---
 ***Utilizando fuentes confiables, establece las habilidades/conocimientos/competencias mínimas indispensables que un Ingeniero de Software debe incluir en su formación académica para el desarrollo de Aplicaciones de Software Seguras.***
@@ -120,6 +128,16 @@ Los conocimientos que un ingeniero de Software debe saber, de acuerdo al SWEEBOO
 ## Unidad 3
 
 ***Asumiendo que los valores descritos en el acuerdo del "Manifiesto para el desarrollo ágil de software", causan conflicto en el proceso de desarrollo reflexione y describa de manera clara posibles soluciones utilizando como base el proyecto que están desarrollando en equipo.***
+
+El manifiesto para el desarrollo ágil de software es un documento que expresa los valores y principios de las metodologías ágiles, que buscan entregar software de calidad de forma rápida y flexible, adaptándose a los cambios y a las necesidades de los clientes.
+
+Según el manifiesto, el software es más importante que la documentación extensiva: este valor implica que se debe priorizar la entrega de software que funcione y que aporte valor al cliente, sobre la elaboración de documentación detallada y exhaustiva que describa el diseño, la arquitectura o los requisitos del software.
+
+En nuestro proyecto es muy importante la documentación, pues así es como comprobamos nuestra metodología y definimos exactamente qué es lo que queremos hacer, así que esa parte podría tener un conflicto con el manifiesto para el desarrollo ágil de software. seguirlo podría dificultar el mantenimiento, la depuración o la escalabilidad del software. Una buena solución sería usar herramientas de documentación automática, como Javadoc, Doxygen o Sphinx, que generen la documentación a partir del código que se escribe. Se debe documentar lo necesario y lo relevante.
+
+Durante la aplicación del proyecto se denoto la importancia de la documentación, para la verificación de la metodología, previamente se definió los requerimientos y las necesidades del producto, en este caso, evitamos la aplicación del manifiesto, puesto que resaltaría un conflicto de ideas. Para solucionarlo, planteamos la implementación de herramientas de documentación automática para verificar los puntos clave del código únicamente.
+
+Fuente sobre el manifiesto ágil: Manifiesto por el Desarrollo Ágil de Software - Agile Manifesto. (https://agilemanifesto.org/iso/es/manifesto.html)
 
 ---
 ***De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil***
