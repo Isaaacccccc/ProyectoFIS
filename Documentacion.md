@@ -142,7 +142,36 @@ Fuente sobre el manifiesto ágil: Manifiesto por el Desarrollo Ágil de Software
 ---
 ***De las metodologías ágiles (Scrum, XP, Kanban, Design sprint, etc.), selecciona dos de ellas e identifica al menos tres de los principios de agilidad de software presentes en dichas metodologías. Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil***
 
+Scrum: 
 
+-Dentro de la metodología Scrum se pueden identificar varios principios de agilidad de software, entre los más destacados:  
+
+ 
+
+1. Entregar software de manera rápida y continúa satisfaciendo al cliente. Scrum prioriza la entrega constante de software tangible al usuario al final de cada iteración gracias a su modelo de trabajo (sprints). 
+
+ 
+
+2. Entregar software funcional de manera frecuente. Scrum funciona en base a las iteraciones que realiza, dichas iteraciones son llamadas “Sprints” y al final de cada una se produce una parte funcional del producto total.   
+
+ 
+
+3. Utilizar la comunicación cara a cara. Scrum prioriza la comunicación directa (de manera remota o presencial) entre los desarrolladores del equipo mediante las Daily Scrum, en donde se reflexiona de manera individual lo que están realizando, lo que van a realizar al día siguiente y los posibles problemas que haya impedido el cumplimento de sus tareas. 
+
+ 
+Kanban:  
+
+Dentro de la metodología Kanban se pueden identificar varios principios de agilidad de software, entre ellos:  
+
+1. Aprovechar el cambio como una ventaja competitiva. Kanban al ser una metodología ágil flexible (a diferencia de Scrum que se mueve a través de ciclos), se pueden añadir nuevas tareas a realizar.  
+
+2. Software funcional como medida de progreso. Kanban mide el proceso del producto a través de las tareas finalizadas.   
+
+3. Promover y mantener un desarrollo sostenible. Kanban optimiza el flujo de tareas dentro del tablero, permitiendo que exista una mejor organización del flujo de trabajo lo que influye en reducir los tiempos de entrega de una manera que no afecte la carga de los miembros del equipo.  
+
+Explique también de qué manera pueden integrarse esos principios de agilidad en su proyecto de equipo, suponiendo que sigue una metodología ágil. 
+
+Nuestro equipo sigue la metodología Scrum en el desarrollo del proyecto, por lo que hemos aplicado de manera indirecta varios de los principios ágiles. Algunos de los más recurrentes incluyen la práctica de "Entregar software funcional de manera frecuente", lograda mediante la distribución de tareas y objetivos durante los sprints semanales. Asimismo, nos adaptamos a los cambios en los requerimientos, aprovechándolos como ventajas competitivas y ajustando tanto la documentación como los prototipos del producto. La evaluación del software funcional al final de cada sprint es una medida de progreso clave en el desarrollo del proyecto, y, por último, favorecemos la "Utilización de la comunicación cara a cara" mediante reuniones virtuales y algunas presenciales (solo con los miembros del equipo) regulares tanto con el docente como con los miembros del equipo para revisar los avances del proyecto. 
 
 ---
 ## Referencias
@@ -154,6 +183,12 @@ Marco de Desarrollo de la Junta de Andalucía (s.f). Guía para la redacción de
 SCRUMMéxico (2018). Escribiendo Historias de Usuario. Disponible en: https://scrum.mx/informate/historias-de-usuario 
 
 SWEEBOK V3.0 Guide to the Software Engineering Body of Knowledge. (2014). Pierre Bourque, École de technologie supérieure (ÉTS) Richard E. (Dick) Fairley, Software and Systems Engineering Associates (S2EA). https://www.computer.org/education/bodies-of-knowledge/software-engineering 
+
+Sáez J. (2021). Cómo funciona la Metodología Scrum: Qué es y cómo utilizarla. IEBS. Disponible en: https://www.iebschool.com/blog/metodologia-scrum-agile-scrum/ 
+
+Sentrio. (2021). Metodologías Agile: los 4 valores y 12 principios del ‘Manifiesto Ágil’. Sentrio. Disponible en: https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/ 
+
+Martins J. (2022). ¿Qué es la metodología Kanban y cómo funciona?. Asana. Disponible en: https://asana.com/es/resources/what-is-kanban 
 
  
 
