@@ -109,7 +109,34 @@ Historias de usuario:
   
 
 ***Producto en la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos)***
+El diseño de la interfaz aborda la manera en que la comunicación y la interacción ocurren entre humanos y máquinas.
+En cuanto al diseño UX/UI, este enfoque se centra en crear productos que sean intuitivos, de fácil manejo y que ofrezcan una experiencia positiva para los usuarios.
+Uno de los métodos más destacados es el Design Sprint, que se estructura en cinco fases a lo largo de una semana laboral, cada una con tareas específicas:
 
+1.-Definición y planificación:
+-   Comprender el proyecto y establecer metas realistas.
+-   Responder a preguntas fundamentales sobre el proyecto.
+
+2.- Ideación:
+-   Buscar soluciones creativas para alcanzar los objetivos establecidos.
+-   Distribuir roles y tareas dentro del equipo.
+-   Identificar usuarios o clientes para futuras pruebas.
+
+3.- Toma de decisión:
+-   Analizar y discutir las soluciones propuestas.
+-   Seleccionar las ideas más viables para resolver el problema.
+    
+4.- Prototipado:
+-   Construir un prototipo tangible y funcional de la solución elegida.
+-   Crear aplicaciones simuladas o plantillas web.
+-   Finalizar el prototipo al final del día.
+
+5.-Validación o testeo de prototipos:
+-   Probar el prototipo con usuarios reales.
+-   Recopilar feedback y analizar respuestas.
+-   Evaluar la viabilidad del proyecto y realizar mejoras necesarias.
+
+Durante nuestro proyecto, empleamos Figma para crear wireframes y un prototipo inicial acorde a los requisitos. Sin embargo, en los sprints identificamos la necesidad de soluciones adicionales para satisfacer las demandas de los usuarios. Modificamos algunos requisitos, establecimos nuevas metas según las historias de usuarios, recibimos retroalimentación del profesor y aplicamos mejoras correspondientes.
   
   
 
