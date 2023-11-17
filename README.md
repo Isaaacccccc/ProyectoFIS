@@ -1,5 +1,5 @@
 # Prueba de Desempeño 2-3
-Durante esta prueba de desempeño, el equipo se cnetró en la realización de una infografía que explicaba los temas d ela unidad 2 y 3, siendo las **Fases de Desarrollo** y los **Modelos de Ciclo de Vida**.
+Durante esta prueba de desempeño, el equipo se centró en la realización de una infografía que explicaba los temas de la unidad 2 y 3, siendo las **Fases de Desarrollo** y los **Modelos de Ciclo de Vida**.
 
 Se decidió realizar en 3 infografías, para poder distribuir de mejor manera la información recabada, las cuales se realizaron en [Canva](https://www.canva.com/design/DAFz-MhyaeU/WmIQLX-3_YXTt5QoKQSYdQ/edit?utm_content=DAFz-MhyaeU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
