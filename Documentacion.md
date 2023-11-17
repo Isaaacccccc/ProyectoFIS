@@ -110,6 +110,8 @@ Historias de usuario:
 
 ***Producto en la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos)***
 
+![Design sprint](https://miro.medium.com/v2/resize:fit:1358/1*GKwX3BVxyolw_uqWoqW2gA.png)
+
 El diseño de la interfaz aborda la manera en que la comunicación y la interacción ocurren entre humanos y máquinas.
 En cuanto al diseño UX/UI, este enfoque se centra en crear productos que sean intuitivos, de fácil manejo y que ofrezcan una experiencia positiva para los usuarios.
 Uno de los métodos más destacados es el Design Sprint, que se estructura en cinco fases a lo largo de una semana laboral, cada una con tareas específicas:
