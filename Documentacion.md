@@ -109,6 +109,7 @@ Historias de usuario:
   
 
 ***Producto en la etapa de diseño (Arquitectura, Base de Datos, Interfaz de Usuario, Procedimientos)***
+
 El diseño de la interfaz aborda la manera en que la comunicación y la interacción ocurren entre humanos y máquinas.
 En cuanto al diseño UX/UI, este enfoque se centra en crear productos que sean intuitivos, de fácil manejo y que ofrezcan una experiencia positiva para los usuarios.
 Uno de los métodos más destacados es el Design Sprint, que se estructura en cinco fases a lo largo de una semana laboral, cada una con tareas específicas:
@@ -365,6 +366,10 @@ Noticias MTP. (2023, 5 abril). _Cómo diseñar un plan de pruebas efectivo para 
 Sáez J. (2021). Cómo funciona la Metodología Scrum: Qué es y cómo utilizarla. IEBS. [https://www.iebschool.com/blog/metodologia-scrum-agile-scrum/](https://www.iebschool.com/blog/metodologia-scrum-agile-scrum/)
 
 SCRUMMéxico (2018). Escribiendo Historias de Usuario. [https://scrum.mx/informate/historias-de-usuario](https://scrum.mx/informate/historias-de-usuario)
+
+UX en Español. (2022, 1 marzo). ¿Qué es y cómo diseño UX y UI? | UX en español. Disponible en: [https://uxenespanol.com/ux/#:~:text=Las%20metodolog%C3%ADas%20UX%2FUI%20son%20un%20proceso%20estructurado,que%20permite%20generar%20soluciones%20centradas%20en%20las%20personas]
+
+Beatriz. (2023, 25 octubre). Metodología Design Sprint: ¿Qué es y cuáles son sus fases? Santalucia Impulsa. Disponible en: [https://www.santaluciaimpulsa.es/metodologia-design-sprint-que-es-y-cuales-son-sus-fases/]
 
 Sentrio. (2021). Metodologías Agile: los 4 valores y 12 principios del ‘Manifiesto Ágil’. Sentrio. [https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/](https://sentrio.io/blog/valores-principios-agile-manifiesto-agil/)
 
