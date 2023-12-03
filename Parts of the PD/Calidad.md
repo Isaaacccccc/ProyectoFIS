@@ -34,3 +34,8 @@ El modelo de McCall se enfoca en la medición precisa de las características de
 
 ## Modelo para nuestro proyecto
 El modelo que sería más adecuado para nuestro proyecto, sería el de McCall, ya que  toma más  en cuenta los aspectos de utilidad, lo cual es indispensable en lo que estamos desarrollando, ya que aseguramos que al tener una buena calidad en el aspecto de usabilidad, los usuarios tengan una mejor experiencia, si bien el área de mantenimiento es igual de indispensable, en términos de nuestro proyecto, podemos tener un buen mantenimiento, aunque nuestra prioridad es que la interfaz y usabilidad sean de buena calidad.
+
+## Referencias
+https://prezi.com/p/oghoj-sn6e6z/modelos-de-calidad-mccall-y-boehm/
+
+https://www.youtube.com/watch?v=RtlflSqSo4c
