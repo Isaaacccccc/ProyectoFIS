@@ -1,22 +1,22 @@
 
-# Sprint estimation
+# Estimación del sprint
 
 ### Tasks
-- Determination of effort required
-- Associated costs (Salaries and sprint cost)
+- Determinación del esfuerzo requerido
+- Costos asociados (Costo del sprint y salarios)
 
 ## Sprint selected
-**Sprint 11: Interface completion and unit testing**
+**Sprint 11: Finalización de interfaz y pruebas unitarias**
 
-**Date:** November 25 - December 2
-**Work Performed:** 
-- Feedback from previous deliverables (EQ-external query)
-- Meeting to verify changes, advantages and disadvantages of the team.
-- Solution of problems not perceived in the second delivery. (Internal Query)
-- Elaboration of the script for the product recording.
-- Verification of interface and functionalities (EE and SE).
-- Implementation of unit tests (EE).
-- Sketching and recording of the video for the third delivery.
+**Fecha:** 25 de noviembre – 2 de diciembre 
+**Trabajos Realizados:** 
+- Feedback de las entregas anteriores. (EQ-external query)
+- Reunión para verificar cambios, ventajas y desventajas del equipo. 
+- Solución de problema no percibidos en la segunda entrega. (Consulta Interna)
+- Elaboración del guión para la grabación del producto. 
+- Verificación de interfaz y funcionalidades. (EE y SE)
+- Implementación de pruebas unitarias. (EE)
+- Esbozo y grabación del vídeo para la tercera entrega
 
 ### Table with estimated salaries and justification
 | Member | Role in the team | Experience | Functions | English level | Monthly salary | 
@@ -28,24 +28,21 @@
 | Erick Vega | In charge of Quality engineering and testing of the project | Experience participating in programming workshops based on C++ and the design of web pages in HTML, CSS and JavaScript, as well as knowledge in pseudocode. | Determination of the user tests, in charge of participating with the validation of requirements and the design of the UI/UX interface, participating also in the documentation of the project. | B2 | $10, 500|
 |Leonardo Ojeda | Video creator and editor | Experience working within Salesforce for cloud-based customer service and video editing. | In charge of the videos both for the recording part and for the editions moderate participations in the documentation and testing. | C1 | $11, 000|
 
-### Justification
-The estimation was made thanks to the information provided by [DATA MEXICO](https://www.economia.gob.mx/datamexico/es/profile/occupation/desarrolladores-y-analistas-de-software-y-multimedia?employSelector5=salaryOption&growthInformal=informalValueOption), a census that recapitulates information about different jobs, labor informality, as well as the work environment, visualization of different jobs focused on the area in job search pages (Indeed), as well as comments rescued during the Software Engineering Fundamentals classes and own knowledge of the RemoteTask company.
+### Justificación
+La estimación se realizo gracias a la información proveída por [DATA MEXICO](https://www.economia.gob.mx/datamexico/es/profile/occupation/desarrolladores-y-analistas-de-software-y-multimedia?employSelector5=salaryOption&growthInformal=informalValueOption), un censo que recapitula la información sobre distintos trabajos, la informalidad laboral, así como el ambiente de trabajo, visualizando los distintos trabajos del area en páginas laborales como Indeed, así como oomentarios rescatados durante las clases de Fundamentos de Ingeniería de Software y conocimientos de trabajos previos de los miembros.
 
 ![Stats](https://github.com/Isaaacccccc/ProyectoFIS/blob/TerceraEntrega/Assets/Picture1.png?raw=true)
 
-The resulting estimate was appreciated between $8, 000 and $15, 000 MXN considering that it is a school work, we will consider values between $5, 000 and $10, 000 monthly, since, we were developing most of the knowledge that we carry before the end of the semester, denoting the region and the state in which we are, as well as the level of English maintained by the team members.
+El resultado de la estimación se aprecia entre los $8, 000 y $15, 000 MXN considerando que se trata de un trabajo escolar, debido a que la mayoría de conocimientos, así como certificaciones fueron conseguidas durante la duración del semestre, además, se denota la región y el estado en el que nos encontramos, por último, se considera la experiencia de los miembros del equipo.
 
 ![stats2](https://github.com/Isaaacccccc/ProyectoFIS/blob/TerceraEntrega/Assets/Picture2.png?raw=true)
 
-Regarding the effort, since the learning of different concepts was achieved on the fly, as well as the certification of some courses for some members or the job opportunity for some, it can be considered that, in large aspects, there were certain tasks that were quite complex for some members, highlighted in the following paragraph, with respect to the sprint that was selected. In terms of time, a period of approximately 3-4 months was maintained. From August 29, 2023 to December 10, 2023.
+Respecto al esfuerzo, dado que el aprendizaje de diferentes conceptos se logró sobre la marcha, así como la certificación de algunos cursos para algunos integrantes o la oportunidad laboral para algunos, se puede considerar que, en grandes aspectos, hubo ciertas tareas que fueron bastante complejo para algunos integrantes, como se destaca en el siguiente párrafo, respecto al sprint que se seleccionó. En cuanto al tiempo, se mantuvo un periodo de aproximadamente 3-4 meses. Del 29 de agosto de 2023 al 10 de diciembre de 2023.
 
-### Cost-dependent calculation
+### Cálculo del costo dependiente
 
 
-During the sprint, 7 tasks were performed.
-
-Sprint cost = 0.25 (approximately one week) * $70, 000 MXN = $17, 500 MXN
-
-Cost per sprint function point = $17,500 / 7 (FP) = $2,500
-
-Sprint duration = 7 (sprint points) / 19 (total monthly points) = 0.3648 months = 11 days
+Durante el sprint, se realizaron 7 tareas (7 puntos de función)
+El costo del sprint fue de = 0.25 (aproximadamente una semana) * $70, 000 MXN = $17, 500 MXN
+El costo por punto de función fue de = $17,500 / 7 (FP) = $2,500
+Duración del sprint = 7 (sprint points) / 19 (puntos de función mensuales) = 0.3648 meses = 11 días
