@@ -98,22 +98,31 @@ Costos totales: 17,500 MXN
 #### 1.4.3	Creación modelo gamma media de acuerdo a las nuevas historias de usuario
 
 
-  -Duración: 36 horas
+  -Duración: 32 horas
 
   
-  -Costo: $2376
+  -Costo: $2112
 
   
 #### 1.4.4	Ajustes de la interfaz 
 
 
-  -Duración: 28 horas
+  -Duración: 24 horas
 
   
-  -Costo: $1848
+  -Costo: $1584
+
+
+#### 1.4.5 Validación de interfaces
+
+
+-Duración: 8 horas
+
+
+-Costo:$528
 
   
-### 1.5	Validación de las interfaces
+### 1.5	Pruebas Unitarias
 
 
 #### 1.5.1	Creación de las encuestas 
