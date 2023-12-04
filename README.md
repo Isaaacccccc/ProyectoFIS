@@ -2,7 +2,7 @@
 
 Durante esta prueba de desempeño, el equipo se centró en la realización de una infografía que explicaba los temas de la unidad 4, acerca de la gestión de un proyecto de software.
 
-Para el diagrama de Gantt se utizó [Asana](https://www.canva.com/design/DAF1lsaHd8Y/zbgn77lGNoPv9RFF1xQKCQ/edit?utm_content=DAF1lsaHd8Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+Para el diagrama de Gantt se utizó [Asana](https://app.asana.com/0/1206084489064463/1206086147922419).
 
 Se decidió realizar en 2 infografías, para poder distribuir de mejor manera la información recabada, las cuales se realizaron en [Canva](https://www.canva.com/design/DAF1lsaHd8Y/zbgn77lGNoPv9RFF1xQKCQ/edit?utm_content=DAF1lsaHd8Y&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
