@@ -35,3 +35,5 @@ Now, as our vision for the app, it’s to help as much people as possible, **50%
 For the last question, we asked them to give us a suggestion for the app, most of them agreed that it’s easy to use, and gave us suggestions about the “sanctions” implemented on the app, that in some future, it’d be good to add more emergencies, and for the app functionality, and that we should add an option to video call someone who works in the interface to help the person who need it. 
 
 To conclude, the results of the Google forms, reflected both a good design and functionality of the app, we will take into account the suggestions given, and the overall results of each question to implement them to make the app better for our users.
+
+[Forms test ✏️](https://docs.google.com/forms/d/1XUXJkeEEzhW9LYRinXFm4Iz1nVdnJSKJoSFTMKZVOg4/edit?ts=6573690c)
