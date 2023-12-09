@@ -118,5 +118,6 @@ It happens after the emergency specification screen, when this message is transl
 - [Process description](/Appdocumentation/documentation.md): The *documentation* of the process of the second review.
 - [User stories](/Artifacts/User_Stories_Final.pdf): Our guide to make the UI design.
 - [Acceptance Criteria](/Artifacts/Acceptance_Criteria_Final.png): The criteria of the user stories that the application can give to the users.
-- [User case diagram/Workflow](/Artifacts/Workflow_ThirdDelivery.png): Updated document, the operation of the app is shown now.
+- [Workflow](/Artifacts/Workflow_ThirdDelivery.png): Updated document, the operation of the app is shown now.
+- [Use Case Diagram](/Artifacts/UseCase_ThirdDelivery.png): Updated document, the operation of the app is shown now.
 - [Requirements](/Artifacts/third_requirements.md): Refinement of requirements.
