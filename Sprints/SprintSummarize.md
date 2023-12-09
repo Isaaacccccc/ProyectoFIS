@@ -97,7 +97,7 @@
 ## Third delivery
 **Sprint 9: Organization for the video and new tasks**
 
-- **Date:** November 7 – November 1
+- **Date:** November 7 – November 16
 
  **Work Done:**
 
