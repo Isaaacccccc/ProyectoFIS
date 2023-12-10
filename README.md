@@ -3,7 +3,7 @@
 # Third Review
 Third review of our project where we ask people what they think about the app and we say goodbye to Silhouette 🫶 
 
-### [Video Presentation]()
+### [Video Presentation](https://drive.google.com/drive/folders/1yln1h6kdhgWScfeWbchJg6VzAHFOyxOo)
 
 
 ## Team *(linkedin profiles and about)*
