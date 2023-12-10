@@ -131,6 +131,7 @@ This shows that there is still a lot that could be worked on within the app.
 - [Workflow](/Artifacts/Workflow_ThirdDelivery.png): The structure of the app's operation.
 - [User Stories](/Artifacts/User_Stories_Final.pdf): Adding user stories that match the new screens.
 - [Definition of Done](/Artifacts/DoD.md): The way in which the artifacts are considered correct and are included within the project.
+- [Correspondence of requirements](/Artifacts/requirementscorres.md): The meaning of each screen with respect to the requirements stated
 
 
 ### Percentage of Participation
