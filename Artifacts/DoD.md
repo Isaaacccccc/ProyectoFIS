@@ -1,51 +1,51 @@
-## Definition of Done (DoD) - Implementación de una aplicación enfocada en la existencia de emergencias de personas sordas (Última entrega)
+## Definition of Done (DoD) - Implementation of an application focused on the existence of deaf people emergencies (Latest release).
 
-### 1/Pruebas funcionales pasadas:
+### 1/Past functional testing:
 
-Descripción: Previo a realizar la encuesta pública con estudiantes que pudieran participar suponiendo el contexto de una persona discapacitada, se verificó la funcionalidad de los componentes de la aplicación, apreciando actitudes coherentes en ella.
+Description: prior to conducting the public survey with students who could participate assuming the context of a disabled person, the functionality of the application components was verified, appreciating consistent attitudes in it.
 
-Criterios:
-1.1/Presentación de pruebas rigurosas: Se aseguró de exhibir pruebas exhaustivas que validaran la funcionalidad de la aplicación en el contexto de personas discapacitadas.
+Criteria:
+1.1/Submission of rigorous testing: ensured that thorough testing was exhibited that validated the functionality of the application in the context of disabled persons.
 
-1.2/Ejecución de pruebas: Se llevó a cabo la ejecución de pruebas para evaluar el rendimiento y la coherencia de los componentes de la aplicación.
+1.2/Test execution: Conducted test execution to evaluate the performance and consistency of the application components.
 
-1.3/Cambios dentro de la interfaz sobre las incoherencias visualizadas: Se realizaron ajustes en la interfaz para corregir cualquier incoherencia identificada durante las pruebas.
+1.3/Changes within the interface on visualized inconsistencies: Adjustments were made to the interface to correct any inconsistencies identified during testing.
 
-1.4/Apreciación de la finalidad: Se evaluó la aplicación en términos de su propósito, garantizando que cumpla eficazmente con las necesidades de personas sordas en situaciones de emergencia.
+1.4/Purpose Assessment: The application was assessed in terms of its purpose, ensuring that it effectively meets the needs of deaf people in emergency situations.
 
-### 2/Cumplimiento de requisitos no funcionales:
+### 2/Compliance with non-functional requirements:
 
-Descripción: Verificación de las funcionalidades, apreciando el rendimiento y optimización de la aplicación.
+Description: Verification of functionalities, appreciating the performance and optimization of the application.
 
-Criterios:
-2.1/Verificación de utilidad: Se comprobó la utilidad de la aplicación, asegurando que cumpla con los requisitos no funcionales establecidos para su rendimiento y optimización.
+Criteria:
+2.1/Verification of usability: The usability of the application was checked, ensuring that it meets the established non-functional requirements for performance and optimization.
 
-2.2/Conexión con las autoridades, respecto a llamadas: Se verificó la correcta conexión de la aplicación con las autoridades, especialmente en situaciones de llamadas de emergencia.
+2.2/Connection with authorities, regarding calls: The correct connection of the application with the authorities was verified, especially in emergency call situations.
 
-2.3/Verificación de emergencias: Se llevaron a cabo pruebas para validar la respuesta de la aplicación en situaciones de emergencia, garantizando una actuación eficiente.
+2.3/Emergency verification: Tests were carried out to validate the application's response in emergency situations, ensuring efficient performance.
 
-2.4/Apreciación de la ubicación: Se evaluó la precisión y efectividad de la función de ubicación de la aplicación, asegurándose de que funcione correctamente.
+2.4/Location Assessment: Evaluated the accuracy and effectiveness of the application's location function, ensuring that it works correctly.
 
-### 3/Dueño de producto en las historias de usuario:
+### 3/Product owner in user stories:
 
-Descripción: Posteriormente a la realización de una verificación propia del equipo de trabajo se presenta la propuesta al propietario del producto, para la determinación apropiada del proyecto o el destacamiento de nuevos cambios.
+Description: Subsequent to the completion of a self-verification of the work team, the proposal is presented to the product owner for appropriate project determination or highlighting of new changes.
 
-Criterios:
-3.1/Validación de la propuesta: Se realizó una validación interna del equipo de trabajo para asegurar que la propuesta cumple con los estándares y requisitos establecidos.
+Criteria:
+3.1/Proposal validation: An internal validation of the work team was performed to ensure that the proposal complies with the established standards and requirements.
 
-3.2/Presentación hacia el propietario: La propuesta fue presentada al dueño del producto, destacando los aspectos clave y obteniendo su aprobación para proceder con el proyecto.
+3.2/Presentation to the owner: The proposal was presented to the product owner, highlighting key aspects and obtaining approval to proceed with the project.
 
-3.3/Verificación de los criterios del propietario: Se llevó a cabo una verificación posterior, asegurando que la propuesta y el proyecto cumplen con los criterios y expectativas del propietario del producto.
+3.3/Owner Criteria Verification: Further verification was conducted, ensuring that the proposal and project met the product owner's criteria and expectations.
 
-### 4/Lanzamiento de la aplicación:
+### 4/Release of the application:
 
-Descripción: Verificando los requerimientos para la respectiva tienda de aplicaciones, se reviso una aprobación formal para su despliegue.
+Description: Verifying the requirements for the respective app store, a formal approval for deployment was reviewed.
 
-Criterios:
-4.1/Aprobación del despliegue: Se verificaron y cumplieron los requisitos necesarios para la publicación en la tienda de aplicaciones, obteniendo la aprobación formal para el despliegue.
+Criteria:
+4.1/Deployment Approval: Verified and fulfilled the necessary requirements for publication in the app store, obtaining formal approval for deployment.
 
-4.2/Preparación de la funcionalidad: Se aseguró de que todas las funciones de la aplicación estuvieran debidamente preparadas y en concordancia con los estándares requeridos antes del lanzamiento.
+4.2/Preparation of functionality: Ensured that all application functions were properly prepared and in accordance with the required standards prior to launch.
 
-4.3/Lanzamiento: La aplicación fue lanzada oficialmente, siguiendo los procedimientos establecidos para garantizar un despliegue suave y exitoso.
+4.3/Release: The application was officially launched, following established procedures to ensure a smooth and successful deployment.
 
-4.4/Validación post-lanzamiento: Se llevaron a cabo evaluaciones posteriores al lanzamiento para confirmar que la aplicación funcionara correctamente en un entorno real, abordando cualquier problema que pudiera surgir.
+4.4/Post-launch validation: Post-launch evaluations were conducted to confirm that the application would function correctly in a live environment, addressing any issues that might arise.
