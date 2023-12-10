@@ -112,5 +112,14 @@ Similarly, the user will be presented with a tab in which to provide medical dat
 
 	- Chemical spill in the natural environment
 
+   
+- **Emergency Service Confirmation:**
+In order for the user to correctly choose the emergency service they require, a tab has been implemented in which the user will be presented with the type of emergency to request
+
+
 - **Contact with emergency authorities**:  
 In order for the user to see that concrete measures are being taken to provide a quick and effective response to their emergency case and therefore they can feel safer, we have implemented a map where the user will be able to visualize the location of emergency units in real time. Since, in emergency situations, uncertainty can increase people's stress and anxiety, that is why by implementing this functionality we want users to have a better sense of control and greater peace of mind.
+
+
+- **Cancellation of Emergency Service:**
+In certain instances, the user may decide to cancel the previously requested emergency service. Therefore, the application will have an option to cancel it. However, given that it is an emergency service that someone else may need, a penalty will be imposed on the user. This penalty consists of being unable to request the service for 20 minutes, and in the event of three cancellations, the account will be temporarily blocked.
