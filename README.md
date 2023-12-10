@@ -66,7 +66,7 @@ In addition, an individual contribution table was prepared, in which each activi
 A final interface was made where you can see the ideas raised in the first delivery, so here is a list of the changes made:
 
 <p align="center">
-  <img src="/Assets/prototype.gif">
+  <img src="/Assets/prototype.gif" width="300" height="600">
 </p>
 
 - **Improvement of icons**: There were some that did not work within the app and gave other ideas about emergencies.
