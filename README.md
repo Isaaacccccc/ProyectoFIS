@@ -131,3 +131,15 @@ This shows that there is still a lot that could be worked on within the app.
 - [Workflow](/Artifacts/Workflow_ThirdDelivery.png): The structure of the app's operation.
 - [User Stories](/Artifacts/User_Stories_Final.pdf): Adding user stories that match the new screens.
 - [Definition of Done](/Artifacts/DoD.md): The way in which the artifacts are considered correct and are included within the project.
+
+
+### Percentage of Participation
+
+| Member  | Percentage contribution to the entire project |  
+|--|--|
+|Novelo Góngora Aldrin Enrique  | 100% |
+| Ojeda Vales Leonardo| 100% |
+| Pech Herrera Moises Isaac | 100% |
+| Puch Rodríguez Karina Gabriela | 100% |
+| Tec Bonilla Jesús Antonio  | 100% |
+| Vega Nolasco Erick Ricardo | 100% |
