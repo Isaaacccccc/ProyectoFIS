@@ -1,9 +1,9 @@
 <img src="/Assets/newbanner.png" width="1100" height="240"/>
 
-# Second Review
-Second review of our project where the product begins to have a more detailed description and a interface ✌️ 
+# Third Review
+Third review of our project where we ask people what they think about the app and we say goodbye to Silhouette 🫶 
 
-### [Video Presentation](https://drive.google.com/file/d/1VBH99Z-0Mh4OBGgsVukLbEayrTSd4mRQ/view?usp=sharing)
+### [Video Presentation]()
 
 
 ## Team *(linkedin profiles and about)*
@@ -31,93 +31,103 @@ By providing a set of images that represent the emergency in question, our proje
 
 [More About](/Artifacts/propuesta.Silueta.equipo1.pdf)
 
-## Product evolution
-While we were working on this second installment, we realized that we had to make some changes in order to be able to properly realize the idea we had at the beginning. Here are some of them:
+## Product Evolution
 
-<p align="center">
-  <img src="/Assets/logoevolution.png">
-</p>
+- **Refinement of requirements:** *Again?* Yes, because we needed them to be ready in order to make the interface make sense.
 
-- **Design change**:  *Why black and white?* We decided to redifine the branch to make a minimalistic app with colors that represent the concept of the software.
-- **Refinement of requirements**: *Were they wrong?* Not really, but they were incomplete or we expected something that is beyond our abilities.
-- **User stories**: *New artifacts?* Basically they were there but not explicitly, at the beginning of this second installment we decided to make them in order to divide the interface into sprints that would guide us.
-- **Team activities**: *New roles?* Yes, we divided the team in two groups, one for the documentation and another one for the UI design.
+- **Improved UI design:** *New interface?* More like giving a good structure to the interface made in the previous release.
 
-	-   `UI design`:
-		-   Leonardo Ojeda Vales
-		- Moisés Isaac Pech Herrera
-		- Jesús Antonio Tec Bonilla
-	-   `Documentation`:
-		-  Aldrin Enrique Novelo Góngora
-		- Karina Gabriela Puch Rodríguez
-		-  Erick Ricardo Vega Nolasco
+- **Creation of informal tests:** *Is the app ready?* Not really, the UI is ready and that's why we decided to do some testing through forms and maze.
 
-- **UI design**: *What tool did the team use?* Figma, We first made a low-fidelity model to give it a good structure and then followed with a medium-fidelity model.
+## Requeriments
 
-## Requirements
-During this second review, we realized the *complexity* and *unfeasibility* of certain requirements raised in the first stage, which could ultimately cause delays in the process. Therefore, we opted to eliminate or replace those requirements with others that were more viable and fundamental to achieve the purpose of the application. This way, we **retained 5 of the 6 non-functional requirements** previously established, **added 2 new functional requirements** and **modified 3 of the 6 previously established requirements**.
+For the final product, taking into account the changes we made to the requirements in the previous reviews, we noticed that some of the requirements were still complex and infeasible for what we wanted to do, which led us to **eliminate one non-functional and one functional** requirement and **add three new functional** requirements.
 
-|[Old requirements](/Artifacts/requirements.md)   |     [New requirements](/Artifacts/new_requirements.md)  |
+|[Second Delivery requirements](/Artifacts/new_requirements.md)   |     [New requirements ✅](/Artifacts/third_requirements.md)  |
 |--|--|
+
 
 ## Sprints
-According to the SCRUMban methodology for our project, we divided the delivery into sprints:
+For this delivery, 4 sprints were carried out, and a document was prepared in which a summary of the sprints that took place in the 3 deliveries is given.
 
-| [Sprint 1](/Sprints/sprint1.md)  | [Sprint 2](/Sprints/sprint2.md)  | [Sprint 3](/Sprints/sprint3.md)  |  [Sprint 4](/Sprints/sprint4.md) |
+| [Sprint 9](/Sprints/Sprint_9.md)  | [Sprint 10](Sprints/Sprint_10.md)  | [Sprint 11](Sprints/Sprint_11.md)  |  [Sprint 12](Sprints/Sprint_12.md) |
 |--|--|--|--|
 
-Likewise, for the Kanban methodology part, the tasks on the board were expanded.
+| [Sprint Summarize 👨‍💻](/Sprints/SprintSummarize.md) |
+|--|
 
-|[Board :bar_chart:](https://github.com/users/Isaaacccccc/projects/3)|[Contribution metrics](/Activityscores/chart.md)|
+In addition, an individual contribution table was prepared, in which each activity in the three deliveries was listed. Also a chart with the final participation percentages of each member.
+
+| [Contribution Metrics 📊](/Activityscores/Metric_Contribution.md) | 
+|--|
+
+## UI Design
+
+A final interface was made where you can see the ideas raised in the first delivery, so here is a list of the changes made:
+
+<p align="center">
+  <img src="/Assets/prototype.gif">
+</p>
+
+- **Improvement of icons**: There were some that did not work within the app and gave other ideas about emergencies.
+
+- **New screens**: Particularly screens where the app settings appear or where you can cancel the emergency.
+
+- **Refinement of the Log In and Sign Up**: In the previous release these did not make sense, that is why now you have to register your email and then enter your data when you start for the first time.
+
+- **Functional emergency button**: This is the main button of the app and we needed users to be able to test it at least informally. Now you can drag it up and it sends you to the emergency tab.
+
+
+## Informal Testing 
+
+### Google forms
+
+<p align="center">
+  <img src="/Assets/forms.png">
+</p>
+
+For the informal testing, we implemented a google forms, in which we added the link to the Silhouette App prototype, so that the people could visit it. 
+In the forms, we asked them 2 questions about their age and gender, and 10 others on the general operation of the app. Out of these six people, **just one has a relative with these incapacities**.
+
+According to the information, we can agree that both the interface and the design are appropriate, even though we may need to **improve** some aspects, the general idea and functionality of the app is clear and the users find it intuitive and helpful.
+
+To conclude, the results of the Google forms, reflected both a good design and functionality of the app, we will take into account the suggestions given, and the overall results of each question to implement them to make the app better for our users.
+
+| [Forms test ✏️](https://docs.google.com/forms/d/1XUXJkeEEzhW9LYRinXFm4Iz1nVdnJSKJoSFTMKZVOg4/edit?ts=6573690c) | [Full Report 📝](/Artifacts/forms.md) |
 |--|--|
 
-## UI Design (*two models*)
-When deciding on a software tool we opted for Figma, a UI/UX design app that is intuitive and easy to learn. For this we designed school accounts to be able to access the professional features for free.
+### Maze results
 
-### **Prototypes**:
+Also, as an extra of the tests, a maze project was carried out to confirm the use of the requirements set out in this release. 
+There were 5 tasks where the 8 functional requirements were included:
+1. **Access the support tutorial**. Requirement #1
+2. **Register in the app and enter your data**. Requirements #2 and #5
+3. **Access the user settings from the main screen**. Requirement #6
+4. **Call for an emergency type** - a person on fire. Requirement #3, #4 and #7
+5. **Cancel the emergency**. Requirement #8
 
-<p align="center">
-  <img src="Assets/low-fidelity model.jpeg">
-</p>
+The results were that there was a **50% success rate** in the tasks, with 9 people answering the survey. 
+On many occasions they failed to complete the tasks correctly, either because of the shape of the app or because they touched the wrong buttons. Something to rescue within the tests is that, it is clearly observed how **all people managed to complete the task of calling emergencies**, proving that the main interface of the app fulfills its purpose.
+This shows that there is still a lot that could be worked on within the app.
 
-First we decided to make a *low-fidelity model* in figma, in which we focused on the basic things that the interface should have. Some points we considered:
+|[Maze test ✍️](https://t.maze.co/205469263)|[Maze Report 📋](https://app.maze.co/report/Silhouette-App/flsftlpjz4o1c/f38c1b4a)|
+|--|--|
 
-- **Minimalist design**: simplifies the user interface, which makes the application easier to understand and use. We want the deaf community to be able to understand from the beginning how to use the app.
+## Course Criticism
 
-- **Performance**: With the minimalist design we seek that the app is not so "heavy", that any cell phone can use it without any problem. 
+- :star: Pech Herrera Moises Isaac - [here](Course_reviews/Isaac.md)
+- :star2: Novelo Góngora Aldrin Enrique - [here](Course_reviews/Aldrin.md)
+- :star2: Ojeda Vales Leonardo - [here](Course_reviews/Leo.md)
+- :star2: Puch Rodríguez Karina Gabriela - [here](Course_reviews/Karina_Puch.md)
+- :star2: Tec Bonilla Jesús Antonio - [here](Course_reviews/Jesus.md)
+- :star2: Vega Nolasco Erick Ricardo - [here](Course_reviews/Erick.md)
 
-<p align="center">
-  <img src="/Assets/medium-fidelity model.jpeg">
-</p>
+### Third Review Documents
 
-After making the first model, we made this *medium-fidelity model* because we wanted to show how it will look to the user in a IOS version. We considered:
-
-- **App format**: A solid grayish black background, changing only in some cases with red and white shades.
-- **Icons**: We implemented the icons that we will be using for each emergency situation, dividing it into 7 categories (Health Emergency, Car Accident, Fire, Domestic Violence, Crime, Missing Person, Natural Disaster) each one with more icons in order to have a deeper description of the situation.
-
-[Visit the Prototypes here :floppy_disk:](https://www.figma.com/file/x9rlfdT941MxluV8jcdjO2/SIlhuoette-App?type=design&node-id=83-399&mode=design&t=XbssHG5kFoim7iwO-0)
-
-### Correspondence with requirements
-1. ***User Registration/Log In***
-The first screen is the registration screen, where the user will be able to enter his or her data to have a record of everyone.
-2. ***Support Tutorials***
-Son videos que se implementan dentro de la app, las dos ultimas pantallas que salen en las imágenes, tendrá la capacidad de verse hortizontal y verticalmente.
-3. ***Access to the location***
-This is a permission that appears at the start of the app, where the user can select whether to grant or deny access. It includes a small message about what this data will be used for.
-4. ***Registration of personal data***
-This screen is where the user is asked for personal and medical data. Within this screen you can edit as many times as you wish and it will be useful for emergency personnel when such a situation occurs.
-5. ***Emergency recognition***
-The main screens of the app, where the big red button appears. Once selected, several general situations will be displayed and by selecting one of them you will be able to specify the situation in question.
-6. ***Protocol/application/API***
-It happens after the emergency specification screen, when this message is translated so that the user can be located by the corresponding emergency services.
-
-### **Second review documents**:
-
-- [User Guide](/Appdocumentation/usersguide.md): A manual for the user to learn how to use the application
-- [App design](/Appdocumentation/appdesign.md): The *documentation* of everything implemented within the UI design.
-- [Process description](/Appdocumentation/documentation.md): The *documentation* of the process of the second review.
-- [User stories](/Artifacts/User_Stories_Final.pdf): Our guide to make the UI design.
-- [Acceptance Criteria](/Artifacts/Acceptance_Criteria_Final.png): The criteria of the user stories that the application can give to the users.
-- [Workflow](/Artifacts/Workflow_ThirdDelivery.png): Updated document, the operation of the app is shown now.
-- [Use Case Diagram](/Artifacts/UseCase_ThirdDelivery.png): Updated document, the operation of the app is shown now.
-- [Requirements](/Artifacts/third_requirements.md): Refinement of requirements.
+- [Innovation Value](/Appdocumentation/InnovationValue.md): The contribution of the product with respect to other existing products and why the idea is considered original.
+- [Users](/Artifacts/Users.md): Identification of app users
+- [Requirements](/Artifacts/third_requirements.md): The final list of requirements.
+- [User case diagram](/Artifacts/UseCase_ThirdDelivery.png): The final diagram clearly shows the use cases of the app.
+- [Workflow](/Artifacts/Workflow_ThirdDelivery.png): The structure of the app's operation.
+- [User Stories](/Artifacts/User_Stories_Final.pdf): Adding user stories that match the new screens.
+- [Definition of Done](/Artifacts/DoD.md): The way in which the artifacts are considered correct and are included within the project.
