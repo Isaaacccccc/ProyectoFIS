@@ -1,0 +1,14 @@
+# Innovation value
+The project is based on an application for mobile devices that can support mute or hearing impaired people to independently request help in emergencies that may arise in their daily lives, specifically we worked on the design of the app with a focus towards iOS.
+
+### What does this product include that others do not?
+
+Within the market there are several products that meet the needs of the deaf community, from sign language translators to applications for learning Mexican Sign Language (LSM), the differentiator focuses on the areas that we seek to maintain, since our purpose is responsible for providing an opportunity for people who do not have the ability to speak as well as hearing impairment so they can contact emergency services since due to those complexities may be deprived of this action in dangerous situations, highlighting an effective communication safe and independent.
+In addition, it can be identified how those applications do not consider the 30% of the Mexican deaf community that is illiterate, since, deaf people recognize that LSM is different from the Spanish that hearing people are used to (LSM is a gesture-based language, while Spanish is a sound language); likewise, certain distinctions can usually be appreciated within LSM, since there are some considerations for some regions that are not properly identified.
+
+On the other hand, the application provides personal information about the user's health, so that emergency services can access them immediately upon arrival, thus implying that communication can take place efficiently due to the circumstances.
+### Is it an identified need? 
+We perceive that it is since in emergency situations the services must act in an effective and efficient manner, requiring the greatest details for intervention, so that public safety can be maintained in a more orderly manner, since, it is a fundamental aspect for society.
+The fact that deaf people may be deprived of this tool is worrying because the degree of magnitude of impact is enormous in some situations there are several cases in which people with disabilities lost their lives because they could not communicate quickly with an emergency service.
+### Why would I consider the contribution original?
+The contribution of this application stands out because it comprehensively addresses the special needs of the deaf community in the field of emergency services. Its unique approach includes adaptation to Mexican Sign Language (LSM), taking into account the linguistic diversity of the deaf community. In addition, it provides personal health information that facilitates immediate treatment and eliminates the communication barrier in critical situations. Thinking of the illiterate and adapting to the urgency of the crisis, the contribution of the application stands out for its originality and comprehensive attention to the specific needs of this community.
