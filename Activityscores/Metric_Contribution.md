@@ -95,3 +95,14 @@ In summary, 42 tasks were carried out based on the criteria of each delivery, of
 - Tasks in the first delivery: 11
 - Tasks in the second installment: 11
 - Tasks in the third installment: 19
+
+## Participation %
+
+| Member  | Percentage contribution to the entire project |  
+|--|--|
+|Novelo Góngora Aldrin Enrique  | 100% |
+| Ojeda Vales Leonardo| 100% |
+| Pech Herrera Moises Isaac | 100% |
+| Puch Rodríguez Karina Gabriela | 100% |
+| Tec Bonilla Jesús Antonio  | 100% |
+| Vega Nolasco Erick Ricardo | 100% |
