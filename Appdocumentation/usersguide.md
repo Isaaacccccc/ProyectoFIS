@@ -29,6 +29,7 @@
 	- **Emergency confirmation**: The user will be presented with a section showing the type of emergency requested; if it is correct, the user will press the symbol with the arrow and will be directed to the "Contact Map" section; otherwise, the user will press the icon with the check mark, returning him/her to the general emergency selection section.
 
 	- **Contact map**: The user will be able to visualize in this section his location and the location of the emergency units.
+	- **Service Cancellation**: In this same section, the user will be able to see a button to cancel the requested emergency service. If they wish to cancel it, a cancellation warning will be displayed, explaining the consequences of doing so
 
 	- **User profile**: If the user presses the "User" button, he/she will be directed to the Profile section, where he/she will be shown his/her photo, user name and some personal data, as well as a button called "Settings" in the upper right corner.
 
