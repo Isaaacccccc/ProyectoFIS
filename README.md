@@ -77,6 +77,9 @@ A final interface was made where you can see the ideas raised in the first deliv
 
 - **Functional emergency button**: This is the main button of the app and we needed users to be able to test it at least informally. Now you can drag it up and it sends you to the emergency tab.
 
+| [Final Figma Prototype ⚙️](https://www.figma.com/file/x9rlfdT941MxluV8jcdjO2/SIlhuoette-App?type=design&node-id=434%3A1267&mode=design&t=mEwzH0T6rLiSS2fC-1) | 
+|--|
+
 
 ## Informal Testing 
 
